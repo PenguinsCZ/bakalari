@@ -1,0 +1,22 @@
+td{
+    height:110px;
+    width: 110px;
+    border: solid;
+    position: relative;
+}
+.name{
+    text-align: center;
+    font-size: xx-large;
+}
+.class{
+    font-size: large;
+    text-align: center;
+}
+.room{
+    text-align: center;
+    font-size: medium;
+}
+.teacher{
+    position: absolute;
+    bottom: 0px;
+}
