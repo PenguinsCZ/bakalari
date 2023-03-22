@@ -1,6 +1,6 @@
 let alldata = []
 
-fetch("http://localhost:8080")
+fetch("https://data-parse-bakalari.onrender.com/")
     .then((response) => response.json())
     .then((data) => {
         alldata = data
