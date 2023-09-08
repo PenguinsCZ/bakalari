@@ -1,5 +1,5 @@
 Rozvrhy učitelů u nás na masarykáči.
-Pokud mi chceš udělat radost tak mi můžeš dát follow na githubu nebo mě jít pozdravit do 221D.
+Pokud mi chceš udělat radost tak mi můžeš dát follow na githubu nebo mě jít pozdravit do 321D.
 Ať se to nedozví učitelé plspls
 
 
